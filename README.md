@@ -1,1 +1,1 @@
-This is home assgnment
+This is home assignment
